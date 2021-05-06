@@ -1,0 +1,31 @@
+body{
+    font-family: 'Girassol', cursive;
+    background-color: black;
+}
+.header_div{
+    left: 500px;
+    top: 0px;
+}
+.header_div img{
+    width: 100px;
+}
+
+.img1{
+    width: 350px;
+    height: 300px;
+}
+.object{
+	background:rgb(247, 49, 230);
+	padding: 30px;
+	border-radius: 20px;
+	width: 40%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px rgb(247, 49, 230);
+}
+.header_div{
+    color: white;
+}
+.p_span{
+    font-weight: bolder;
+    color: whitesmoke;
+}
