@@ -28,4 +28,27 @@ body{
 .p_span{
     font-weight: bolder;
     color: whitesmoke;
+    letter-spacing: 2px;
+}
+.pink_one{
+    width: 100%;
+    bottom: 0px;
+    background-color:rgb(247, 49, 230) ;
+    padding: 10px;
+    margin-top: 30px;
+    position: fixed;
+    box-shadow: 5px 5px 5px 5px 18px  rgb(247, 49, 230) ;
+}
+.black_one{
+    width: 720px;
+    height: 110px;
+    border-radius: 20px;
+    background-color: black;
+    box-shadow: 5px 5px 18px black ;
+    color: white;
+    padding: 10px;
+    letter-spacing: 2px;
+}
+.anothercolor{
+    color: rgb(247, 49, 230) ;
 }
